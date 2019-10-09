@@ -12,7 +12,7 @@ class EmailAddressParser
   end
   
   def parse
-  emails.delete(',').split.uniq
+  emails_addresses.delete(',').split.uniq
   end
 
 end
