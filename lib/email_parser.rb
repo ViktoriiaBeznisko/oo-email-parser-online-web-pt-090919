@@ -5,6 +5,10 @@
 
 class EmailAddressParser
   
+  email_addresses = []
+  
   def initialize(parse)
+    
   end
+  
 end
