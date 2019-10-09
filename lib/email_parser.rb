@@ -5,5 +5,5 @@
 
 class EmailAddressParser
   
-  
+  initialize parse
 end
