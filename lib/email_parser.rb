@@ -13,5 +13,6 @@ class EmailAddressParser
   
   def parse
   email_addresses.parse
-end
+  end
+
 end
